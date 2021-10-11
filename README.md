@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://taibbi.substack.com/?utm_medium=podcast">TK To Go</a> podcast from Matt Taibbi's Substack feed.<br>
 
-<img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="Matt Taibbi TK To GO"><br>
+<img src="https://github.com/leopheard/TKToGo/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="Matt Taibbi TK To GO"><br>
 
 Audio versions of TK New's articles from the Substack of Matt Taibbi.<br>
 
