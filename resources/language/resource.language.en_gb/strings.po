@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30001"
-msgid "Latest episodes"
+msgid "Matt Taibbi - TK To Go"
 msgstr ""
 
 msgctxt "#30002"

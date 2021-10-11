@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio." name="xxxxx" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.tktogo" name="TK To Go" version="1.0.1" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,13 +13,13 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en_us</language>
-    <summary lang="en">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</summary>
-    <description lang="en">xxxddddxxxxxxxxxxxxxxxxxxxxxx</description>
+    <summary lang="en">TK To Go</summary>
+    <description lang="en">TK To Go - Matt Taibbi's Substack audio articles</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/</source>
-    <website></website>
+    <source>https://github.com/leopheard/TKToGo</source>
+    <website>https://taibbi.substack.com/?utm_medium=podcast</website>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
